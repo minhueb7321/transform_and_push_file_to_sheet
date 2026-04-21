@@ -83,7 +83,7 @@ if __name__ == '__main__':
     except Exception as e:
         print(f"Đã xảy ra lỗi: {e}")
     
-    # Dòng này giữ cửa sổ lại
+    # Done
     input("\nNhấn Enter để thoát...")
 
 
